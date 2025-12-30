@@ -13,7 +13,7 @@ A Multimodal pipeline that converts text scripts into narrated visual scenes.
 * **Tech:** Kokoro TTS, Stable Diffusion, MoviePy
 * **Goal:** Evolving into a full motion-picture generation engine.
 
-*(Add more project links here as you create them!)*
+*(More project links will come here as I create them!)*
 
 ## 🛠️ Tech Stack & Tools
 Throughout this repo, I'll be experimenting with:
