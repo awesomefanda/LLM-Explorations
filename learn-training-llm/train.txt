@@ -1,0 +1,5 @@
+hello, how are you?
+today is a sunny day.
+my favorite food is pizza.
+I love learning machine learning.
+chatbots are fun to train!
